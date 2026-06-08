@@ -1,0 +1,16 @@
+site_name: Obed Eric | Technical Writer 
+theme: 
+  name: material
+  palette: 
+    primary: black
+  features: 
+    - navigation.tabs
+nav: 
+  - Home: index.md
+  - Tech Writing: 
+    - Laminated Shims: tech-writing/shims.md
+  - Content Writing: 
+    - Information Fragmentation: content/saas-blog.md
+  - Strategy: 
+    - Shims company SEO: strategy/shims-company.md
+
