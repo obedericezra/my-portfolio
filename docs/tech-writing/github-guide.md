@@ -6,7 +6,9 @@ This is a guide to create a GitHub Repository and upload files from a Linux syst
 Prerequisites:
 
 A GitHub account 
+
 Linux terminal access
+
 A project folder with files ready to upload. 
 
 
