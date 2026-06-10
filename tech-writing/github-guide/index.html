@@ -653,20 +653,20 @@
 <p>A successful installation would show: git version 2.x.x</p>
 <p>Step 2 — Configure Git</p>
 <p>Fill in your name and email, so Git can label your commits correctly. </p>
-<p>To set your username and email, run this command:
-git config --global user.name "Your Name"
+<p>To set your username and email, run this command:</p>
+<p>git config --global user.name "Your Name"
 git config --global user.email "your@email.com"</p>
 <p>Entering these details once is valid for as long as you use that particular system.</p>
 <p>Step 3 — Create a Repository on GitHub</p>
 <p>A repository stores your project on GitHub.</p>
-<p>To create a repository, 
-    •   Go to github.com and sign in
-    •   Click the + icon in the top right
-    •   Select New Repository
-    •   Enter a repository name
-    •   Set visibility to Public
-    •   Do not add README or any files
-    •   Click Create Repository</p>
+<p>To create a repository, </p>
+<p>•   Go to github.com and sign in</p>
+<p>•   Click the + icon in the top right</p>
+<p>•   Select New Repository</p>
+<p>•   Enter a repository name</p>
+<p>•   Set visibility to Public</p>
+<p>•   Do not add README or any files</p>
+<p>•   Click Create Repository</p>
 <p>This creates a repository in your profile.</p>
 <p>Step 4 — Initialize Your Local Project</p>
 <p>This prepares your local folder for version control</p>
@@ -682,31 +682,30 @@ git remote add origin https://github.com/yourusername/your-repo-name.git</p>
 <p>Then, Rename branch to main: git branch -M main</p>
 <p>Now, upload files to GitHub:  git push -u origin main</p>
 <p>When prompted:</p>
-<pre><code>•   Username: your GitHub username
-•   Password: your Personal Access Token (not your GitHub password)
-</code></pre>
+<p>•   Username: your GitHub username
+•   Password: your Personal Access Token (not your GitHub password)</p>
 <p>To generate a Personal Access Token: go to github.com → Settings → Developer Settings → Personal Access Tokens → Tokens Classic → Generate New Token → select repo scope → copy the token immediately.</p>
 <p>Step 6 — Verify
 To verify if your Github page is live, </p>
-<p>Go to github.com/yourusername/your-repo-name and confirm your files are visible.
-Your project is now live on Github and accessible from any device. </p>
+<p>Go to github.com/yourusername/your-repo-name and confirm your files are visible.</p>
+<p>Your project is now live on Github and accessible from any device. </p>
 <p>If not, check the common errors mentioned below and how to fix them. </p>
 <p>Common Errors and Fixes:</p>
-<p>Error: git: command not found
-Git is not installed on your device or the terminal needs to be restarted.
-Fix: Run: sudo apt install git, and open a new terminal window.</p>
-<p>Error: src refspec main does not match any
-The local branch is named master instead of main.
-Fix: Run: git branch -M main, and then push again.</p>
-<p>Error: remote origin already exists
-You ran git remote add origin twice.
-Fix: Run: git remote set-url origin https://github.com/yourusername/your-repo.git</p>
-<p>Error: Authentication failed
-You entered your GitHub password instead of a Personal Access Token.
-Fix: Generate a token at github.com/settings/tokens and use that as your password.</p>
-<p>Error: Permission denied
-The token doesn’t have the correct permissions.
-Fix: Regenerate the token and make sure the repo scope is checked.</p>
+<p>Error: git: command not found</p>
+<p>Git is not installed on your device or the terminal needs to be restarted.</p>
+<p>Fix: Run: sudo apt install git, and open a new terminal window.</p>
+<p>Error: src refspec main does not match any</p>
+<p>The local branch is named master instead of main.</p>
+<p>Fix: Run: git branch -M main, and then push again.</p>
+<p>Error: remote origin already exists</p>
+<p>You ran git remote add origin twice.</p>
+<p>Fix: Run: git remote set-url origin https://github.com/yourusername/your-repo.git</p>
+<p>Error: Authentication failed</p>
+<p>You entered your GitHub password instead of a Personal Access Token.</p>
+<p>Fix: Generate a token at github.com/settings/tokens and use that as your password.</p>
+<p>Error: Permission denied</p>
+<p>The token doesn’t have the correct permissions.</p>
+<p>Fix: Regenerate the token and make sure the repo scope is checked.</p>
 
 
 
