@@ -108,7 +108,7 @@ Content Strategy
 
 The companies that win in industrial SEO publish both product pages and educational content. Product pages capture high-intent buyers while educational content captures engineers during the research and specification phase.
 
-Transactional Pages
+Transactional Pages:
 
 Technical specs
 
@@ -120,7 +120,7 @@ Application examples
 
 Downloadable drawings
 
-Engineering Knowledge Content
+Engineering Knowledge Content:
 
 What is a laminated shim?
 
@@ -132,7 +132,7 @@ Solid vs laminated vs peel shims
 
 Shim material comparison
 
-Technical Reference Resources
+Technical Reference Resources:
 
 Shim thickness charts
 
@@ -142,9 +142,10 @@ Shim material properties
 
 Peel shim layer thickness guide
 
-Keyword Strategy
 
-Transactional
+Keyword Strategy:
+
+Transactional-
 
 Shim manufacturer
 
@@ -154,7 +155,7 @@ Peel shims
 
 Precision shims
 
-Informational
+Informational-
 
 What is a laminated shim
 
@@ -162,7 +163,7 @@ Tolerance stack-up explained
 
 Shim thickness calculation
 
-Commercial Investigation
+Commercial Investigation-
 
 Laminated vs peel shims
 
@@ -170,7 +171,8 @@ Shim material comparison
 
 Best shim material for aerospace application
 
-Blog Content Plan
+
+Blog Content Plan:
 
 To rank in AI-generated responses, content should include clear definitions, structured FAQs, short direct explanations, tables and diagrams, and schema markup.
 
@@ -194,7 +196,9 @@ Laminated vs peelable shims
 
 Shim material comparison
 
-SEO Roadmap — 6 Month Plan
+
+
+SEO Roadmap — 6 Month Plan:
 
 Months 1–2
 
@@ -220,7 +224,7 @@ Acquire industry backlinks
 
 Expand application-specific content
 
-Success Metrics
+Success Metrics:
 
 Organic traffic growth
 
