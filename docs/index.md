@@ -4,7 +4,7 @@ I'm a technical writer and content strategist based in India.
 I specialise in making complex technical information clear, structured and useful.
 
 
-I serve as Tamil Editor at Five Solas India, a Reformed Theology translation firm, where i oversee editorial standards and manage the Tamil Department's translation output. 
+I serve as Tamil Editor at Five Solas India, a Reformed Theology translation firm, where I oversee editorial standards and manage the Tamil Department's translation output. 
 
 
 ## Writing Samples
@@ -13,7 +13,7 @@ I serve as Tamil Editor at Five Solas India, a Reformed Theology translation fir
 
 - [Laminated Shims Documentation](tech-writing/shims.md)
 
-- [How to Create a Github Repository](tech-writing/github-guide.md)
+- [How to Create a GitHub Repository](tech-writing/github-guide.md)
 
 **Content Writing**
 
