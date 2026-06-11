@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Obed Eric | Technical Writer 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I'm a technical writer and content strategist based in India.
+I specialise in making complex technical information clear,structured and useful.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I serve as Tamil Editor at Five Solas India, a Reformed Theology translation firm, where i oversee editorial standards and manage the Tamil Department's translation output. 
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Writing Samples
+
+**Tech Writing**
+- [Laminated Shims Documentation](tech-writing/shims.md)
+- [How to Create a Github Repository](tech-writing/github-guide.md)
+
+**Content Writing**
+- [The Hidden Costs of Information Fragmentation](content/saas-blog.md)
+
+**Content Strategy**
+- [SEO Strategy for a Niche Industrial Brand](strategy/shims-company.md)
+
+##Contact
+obedericezra@gmail.com
