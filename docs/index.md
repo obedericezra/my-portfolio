@@ -10,14 +10,17 @@ I serve as Tamil Editor at Five Solas India, a Reformed Theology translation fir
 ## Writing Samples
 
 **Tech Writing**
+
 - [Laminated Shims Documentation](tech-writing/shims.md)
 
 - [How to Create a Github Repository](tech-writing/github-guide.md)
 
 **Content Writing**
+
 - [The Hidden Costs of Information Fragmentation](content/saas-blog.md)
 
 **Content Strategy**
+
 - [SEO Strategy for a Niche Industrial Brand](strategy/shims-company.md)
 
 ##Contact
